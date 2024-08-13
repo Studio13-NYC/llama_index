@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "version": "1",
+    "updated_at": "2024-08-13T09:21:22.741Z",
+    "created_at": "2024-08-13T09:21:24.144Z",
+    "pipelines": [
+      "ea50e9b2-2228-4872-a7a6-56a9c75a50f8"
+    ]
+  },
+  "lookup": [
+    [
+      "llama_index/agent/context_retriever_agent.py"
+    ]
+  ]
+}
